@@ -1,6 +1,6 @@
 hello-world-Ninguem - Interactive, colaborative, hello world!
 
-Lets learn to colaborate. First, start by presenting yourself.
+Lets learn to colaborate. First, start by introducing yourself.
 Be nice!
 ;-)
 
@@ -10,9 +10,9 @@ git clone git@github.com:SourceDojo/hello-world.git
 
 PROCEDURE:
 ==========
-Each new "member" should present himself, thus closing the open bug found in the TODO file.
-One does so by writing a file named after his nickname, adding it and commiting that to his personal repo.
-The content of that file is completely up to the writer and is his oportunity to be nice.
+Each new "member" should introduce himself, thus closing the open bug found in the TODO file.
+One does so by writing a file named after his nickname, adding it to the staging area and commiting that to his personal repo.
+The content of that file is completely up to the writer and this is his/her oportunity to be nice.
 The inclusion of such file should be made in a commit.
 Subsequently, another commit should be made by the same author to update our simple bug tracker - the TODO file - replacing the word "TODO" with the word "DONE" on the line referencing the bug he just closed.
 Of course, now another commit urges: it should be immidiatly obvious that another bug should be recorder incrementing the bug count. Go ahead and add that bug to the top of the TODO file with the appropriate number.
